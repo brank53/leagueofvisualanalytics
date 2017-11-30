@@ -1,0 +1,82 @@
+.statistics1 .legend {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: start;
+  font-size: 12px;
+  text-align:center;
+}
+
+.toolTip {
+  position: absolute;
+  visibility: hidden;
+  min-width: 80px;
+  height: auto;
+  padding: 14px;
+  text-align: center;
+}
+
+#stat1{
+	text-align:center;
+}
+
+#stat2{
+	text-align:center;
+}
+
+#stat3{
+	text-align:center;
+}
+
+.statistics1 text {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.statistics1 .label {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+statistics2 .legend {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: start;
+  font-size: 12px;
+  text-align:center;
+}
+
+.statistics2 text {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.statistics2 .label {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+statistics3 .legend {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: start;
+  font-size: 12px;
+  text-align:center;
+}
+
+.statistics3 text {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.statistics3 .label {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+

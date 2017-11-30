@@ -1,0 +1,264 @@
+id;name;effect;type
+3715;Skirmisher's Sabre;+10% Life Steal vs. Monsters, +225% Base Mana Regen while in Jungle;attack
+3107;Redemption;+200 Health, +50% Base Health Regen , +150% Base Mana Regen , +10% Cooldown Reduction;defense
+3711;Tracker's Knife;+10% Life Steal vs. Monsters, +225% Base Mana Regen while in Jungle;
+3133;Caulfield's Warhammer;+25 Attack Damage;attack
+3077;Tiamat;+20 Attack Damage, +50% Base Health Regen ;attack
+3416;Head of Kha'Zix;None;
+3048;Seraph's Embrace;+80 Ability Power, +1000 Mana;magic
+3102;Banshee's Veil;+70 Ability Power, +60 Magic Resist, +10% Cooldown Reduction;defense,magic
+3410;Head of Kha'Zix;None;
+3041;Mejai's Soulstealer;+20 Ability Power, +200 Mana;magic
+3040;Seraph's Embrace;+80 Ability Power, +1000 Mana;magic
+3043;Muramana;+25 Attack Damage, +1000 Mana;attack,magic
+3345;Soul Anchor (Trinket);None;tools
+3044;Phage;+200 Health, +15 Attack Damage;defense,attack
+3047;Ninja Tabi;+30 Armor;defense,movement
+3046;Phantom Dancer;+45% Attack Speed, +30% Critical Strike Chance, +5% Movement Speed;attack
+3748;Titanic Hydra;+450 Health, +35 Attack Damage, +100% Base Health Regen ;defense,attack
+3122;Wicked Hatchet;+20 Attack Damage, +10% Critical Strike Chance;
+3123;Executioner's Calling;+15 Attack Damage;attack
+3252;Poacher's Dirk;+10 Attack Damage;attack
+3124;Guinsoo's Rageblade;+35 Attack Damage, +50 Ability Power, +25% Attack Speed;attack,magic
+2015;Kircheis Shard;+15% Attack Speed;attack
+2011;Elixir Of Skill;None;tools
+2010;Total Biscuit of Rejuvenation;None;tools
+3181;Sanguine Blade;+45 Attack Damage, +10% Life Steal;
+3052;Jaurim's Fist;+15 Attack Damage, +200 Health;defense,attack
+3401;Face of the Mountain;+450 Health, +100% Base Health Regen , +10% Cooldown Reduction, +2 Gold per 10 seconds ;defense
+3134;Serrated Dirk;+25 Attack Damage;attack
+3137;Dervish Blade;+50% Attack Speed, +45 Magic Resist, +10% Cooldown Reduction;
+3136;Haunting Guise;+25 Ability Power, +200 Health;defense,magic
+3024;Glacial Shroud;+20 Armor, +250 Mana;defense,magic
+3649;Siege Sight Warder;None;
+3648;Siege Teleport (Inactive);None;
+3647;Shield Totem;None;
+1031;Chain Vest;+40 Armor;defense
+3645;Seer Stone (Trinket);None;
+3802;Lost Chapter;+25 Ability Power, +300 Mana;magic
+3643;Entropy Field;None;
+3642;Siege Refund;None;
+3641;Vanguard Banner;None;
+3640;Flash Zone;None;
+3034;Giant Slayer;+10 Attack Damage;attack
+3035;Last Whisper;+10 Attack Damage;attack
+3036;Lord Dominik's Regards;+50 Attack Damage;attack
+3030;Hextech GLP-800;+300 Health, +400 Mana, +80 Ability Power;defense,magic
+3031;Infinity Edge;+70 Attack Damage, +20% Critical Strike Chance;attack
+3033;Mortal Reminder;+50 Attack Damage;attack
+1418;Enchantment: Bloodrazor;+50% Attack Speed;
+1419;Enchantment: Bloodrazor;+50% Attack Speed;
+3070;Tear of the Goddess;+250 Mana;magic
+2140;Elixir of Wrath;Level 9 required to purchase.;tools
+1410;Enchantment: Runic Echoes;+60 Ability Power, +7% Movement Speed;
+1412;Enchantment: Warrior;+60 Attack Damage, +10% Cooldown Reduction;
+1413;Enchantment: Cinderhulk;+300 Health, +20% Bonus Health;
+1414;Enchantment: Runic Echoes;+60 Ability Power, +7% Movement Speed;
+1416;Enchantment: Bloodrazor;+50% Attack Speed;
+3139;Mercurial Scimitar;+65 Attack Damage, +35 Magic Resist, +10% Life Steal;defense,attack
+3374;Rabadon's Deathcrown;+175 Ability Power;magic
+1083;Cull;+7 Attack Damage, +3 Life on Hit;attack
+1082;The Dark Seal;+15 Ability Power, +25% Increased Healing from Potions, +100 Mana;magic
+3373;Forgefire Cape;+625 Health, +90 Armor;defense
+3140;Quicksilver Sash;+30 Magic Resist;defense
+3142;Youmuu's Ghostblade;+55 Attack Damage, +10% Cooldown Reduction;attack
+3143;Randuin's Omen;+400 Health, +60 Armor;defense
+3144;Bilgewater Cutlass;+25 Attack Damage, +10% Life Steal;attack
+3145;Hextech Revolver;+40 Ability Power;magic
+3146;Hextech Gunblade;+40 Attack Damage, +80 Ability Power;attack,magic
+3147;Duskblade of Draktharr;+55 Attack Damage, +10% Cooldown Reduction;attack
+3672;Enchantment: Cinderhulk;+325 Health, +15% Bonus Health;
+3673;Enchantment: Runic Echoes;+60 Ability Power, +7% Movement Speed;
+3671;Enchantment: Warrior;+60 Attack Damage, +10% Cooldown Reduction;
+3302;Relic Shield;+75 Health, +2 Gold per 10 seconds ;defense
+3303;Spellthief's Edge;+10 Ability Power, +2 Gold per 10 seconds, +25% Base Mana Regen ;magic
+3301;Ancient Coin;+5% Cooldown Reduction, +2 Gold per 10 seconds;
+3386;Zhonya's Paradox;+100 Ability Power, +60 Armor, +10% Cooldown Reduction;
+3384;Trinity Fusion;+350 Health, +350 Mana, +35 Attack Damage, +50% Attack Speed, +20% Cooldown Reduction, +8% Movement Speed;attack
+3385;Wooglet's Witchcrown;+155 Ability Power, +45 Armor  ;defense,magic
+3382;Salvation;+300 Health, +150% Base Health Regen , +200% Base Mana Regen , +10% Cooldown Reduction;defense
+3383;Circlet of the Iron Solari;+45 Armor, +75 Magic Resist;defense
+3380;The Obsidian Cleaver;+550 Health, +60 Attack Damage, +20% Cooldown Reduction;defense,attack
+3028;Chalice of Harmony;+30 Magic Resist, +50% Base Mana Regen ;defense
+2301;Eye of the Watchers;+200 Health, +50% Base Mana Regen , +35 Ability Power, +10% Cooldown Reduction, +2 Gold per 10 seconds;defense,magic
+3026;Guardian Angel;+40 Attack Damage, +30 Armor;defense,attack
+2303;Eye of the Equinox;+500 Health, +200% Base Health Regen , +10% Cooldown Reduction, +2 Gold per 10 seconds;defense
+2302;Eye of the Oasis;+200 Health, +125% Base Health Regen , +10% Cooldown Reduction, +2 Gold per 10 seconds;defense
+3022;Frozen Mallet;+700 Health, +30 Attack Damage;defense,attack
+3020;Sorcerer's Shoes;+15 , Magic Penetration;movement
+1409;Enchantment: Cinderhulk;+300 Health, +20% Bonus Health;
+1408;Enchantment: Warrior;+60 Attack Damage, +10% Cooldown Reduction;
+1018;Cloak of Agility;+20% Critical Strike Chance;attack
+3196;The Hex Core mk-1;+3 Ability Power per level, +15 Mana per level;
+1402;Enchantment: Runic Echoes;+60 Ability Power, +7% Movement Speed;
+1401;Enchantment: Cinderhulk;+300 Health, +20% Bonus Health;
+1400;Enchantment: Warrior;+60 Attack Damage, +10% Cooldown Reduction;
+3068;Sunfire Cape;+425 Health, +60 Armor  ;defense
+1011;Giant's Belt;+380 Health;defense
+3812;Death's Dance;+80 Attack Damage, +10% Cooldown Reduction;attack
+3814;Edge of Night;+250 Health, +55 Attack Damage;defense,attack
+3742;Dead Man's Plate;+425 Health, +60 Armor;defense
+3153;Blade of the Ruined King;+40 Attack Damage, +25% Attack Speed, +12% Life Steal;attack
+3152;Hextech Protobelt-01;+300 Health, +60 Ability Power, +10% Cooldown Reduction;defense,magic
+3151;Liandry's Torment;+80 Ability Power, +300 Health;defense,magic
+3157;Zhonya's Hourglass;+70 Ability Power, +45 Armor, +10% Cooldown Reduction;defense,magic
+3156;Maw of Malmortius;+50 Attack Damage, +45 Magic Resist, +10% Cooldown Reduction;defense,attack
+3155;Hexdrinker;+20 Attack Damage, +35 Magic Resist;defense,attack
+3158;Ionian Boots of Lucidity;None;movement
+2054;Diet Poro-Snax;None;
+3508;Essence Reaver;+70 Attack Damage, +20% Critical Strike Chance;attack
+2047;Oracle's Extract;None;tools
+2045;Ruby Sightstone;+500 Health;defense
+3462;Seer Stone (Trinket);None;
+3461;Golden Transcendence (Disabled);None;
+3460;Golden Transcendence;None;tools
+3010;Catalyst of Aeons;+225 Health, +300 Mana;defense,magic
+3504;Ardent Censer;+60 Ability Power, +10% Cooldown Reduction, +50% Base Mana Regen ;magic
+2049;Sightstone;+150 Health;defense
+3092;Frost Queen's Claim;+60 Ability Power, +10% Cooldown Reduction, +2 Gold per 10 seconds, +50% Base Mana Regen ;magic
+3690;Cosmic Shackle;None;
+3090;Wooglet's Witchcap;+100 Ability Power, +45 Armor  ;defense,magic
+3091;Wit's End;+40% Attack Speed, +40 Magic Resist;defense,attack
+3096;Nomad's Medallion;+50% Base Health Regen , +10% Cooldown Reduction, +2 Gold per 10 seconds;
+3097;Targon's Brace;+175 Health, +50% Base Health Regen , +2 Gold per 10 seconds ;defense
+3094;Rapid Firecannon;+30% Attack Speed, +30% Critical Strike Chance, +5% Movement Speed;attack
+3691;Singularity Lantern;None;
+1006;Rejuvenation Bead;+50% Base Health Regen ;
+3098;Frostfang;+20 Ability Power, +2 Gold per 10 seconds, +50% Base Mana Regen , +10% Cooldown Reduction;magic
+1004;Faerie Charm;+25% Base Mana Regen ;
+1001;Boots of Speed;None;movement
+3751;Bami's Cinder;+200 Health  ;defense
+3599;The Black Spear;;
+3801;Crystalline Bracer;+200 Health, +50% Base Health Regen ;defense
+3800;Righteous Glory;+400 Health, +300 Mana, +30 Armor, +100% Base Health Regen , +10% Cooldown Reduction;defense,magic
+3361;Greater Stealth Totem (Trinket);;
+3004;Manamune;+25 Attack Damage, +250 Mana;attack,magic
+3007;Archangel's Staff (Quick Charge);+80 Ability Power, +250 Mana;magic
+3006;Berserker's Greaves; +35% Attack Speed;movement
+3001;Abyssal Mask;+350 Health, +300 Mana, +55 Magic Resist, +10% Cooldown Reduction;defense,magic
+3003;Archangel's Staff;+80 Ability Power, +250 Mana;magic
+3057;Sheen;+250 Mana, +10% Cooldown Reduction;magic
+3135;Void Staff;+80 Ability Power;magic
+3165;Morellonomicon;+100 Ability Power, +400 Mana;magic
+3009;Boots of Swiftness;None;movement
+3008;Manamune (Quick Charge);+25 Attack Damage, +250 Mana;attack,magic
+2051;Guardian's Horn;+150 Health;defense
+2050;Explorer's Ward;None;
+2053;Raptor Cloak;+30 Armor, +125% Base Health Regen ;defense
+2052;Poro-Snax;None;tools
+2055;Control Ward;None;tools
+3211;Spectre's Cowl;+250 Health, +25 Magic Resist;defense
+3455;Head of Kha'Zix;None;
+3513;Eye of the Herald;None;tools
+3512;Zz'Rot Portal;+55 Armor, +55 Magic Resist, +125% Base Health Regen ;defense
+3692;Dark Matter Scythe;None;
+3693;Gravity Boots;None;
+3694;Cloak of Stars;None;
+3695;Dark Star Sigil;None;
+3362;Greater Vision Totem (Trinket);;
+3363;Farsight Alteration; Massively increased cast range (+650%),  Infinite duration and does not count towards ward limit, 10% increased cooldown, Ward is visible,  fragile,  untargetable by allies, 45% reduced ward vision radius, Cannot store charges;tools
+1038;B. F. Sword;+40 Attack Damage;attack
+1039;Hunter's Talisman;+150% Base Mana Regen while in Jungle  ;
+3089;Rabadon's Deathcap;+120 Ability Power  ;magic
+3085;Runaan's Hurricane;+40% Attack Speed, +30% Critical Strike Chance, +7% Movement Speed;attack
+1033;Null-Magic Mantle;+25 Magic Resist;defense
+3087;Statikk Shiv;+35% Attack Speed, +30% Critical Strike Chance, +5% Movement Speed;attack
+3086;Zeal;+15% Attack Speed, +20% Critical Strike Chance;attack
+1036;Long Sword;+10 Attack Damage;attack
+1037;Pickaxe;+25 Attack Damage;attack
+3083;Warmog's Armor;+800 Health, +200% Base Health Regen ;defense
+3082;Warden's Mail;+40 Armor;defense
+1058;Needlessly Large Rod;+60 Ability Power;magic
+3027;Rod of Ages;+300 Health, +300 Mana, +60 Ability Power;defense,magic
+3071;The Black Cleaver;+400 Health, +40 Attack Damage, +20% Cooldown Reduction;defense,attack
+3072;The Bloodthirster;+80 Attack Damage;attack
+3073;Tear of the Goddess (Quick Charge);+250 Mana;magic
+3074;Ravenous Hydra;+80 Attack Damage, +100% Base Health Regen , +12% Life Steal;attack
+3075;Thornmail;+250 Health, +80 Armor;defense
+3076;Bramble Vest;+35 Armor;defense
+3084;Overlord's Bloodmail;+800 Health, +100% Base Health Regen ;
+3078;Trinity Force;+250 Health, +250 Mana, +25 Attack Damage, +40% Attack Speed, +20% Cooldown Reduction, +5% Movement Speed;attack
+3170;Moonflair Spellblade;+50 Ability Power, +50 Armor, +50 Magic Resist;defense,magic
+3285;Luden's Echo;+100 Ability Power, +10% Movement Speed;magic
+3175;Head of Kha'Zix;None;
+3174;Athene's Unholy Grail;+30 Ability Power, +30 Magic Resist, +10% Cooldown Reduction, +100% Base Mana Regen ;defense,magic
+1027;Sapphire Crystal;+250 Mana;magic
+1026;Blasting Wand;+40 Ability Power;magic
+3379;Infernal Mask;+550 Health, +300 Mana, +90 Magic Resist, +10% Cooldown Reduction;defense,magic
+3200;Prototype Hex Core;+1 Ability Power per level, +10 Mana per level;
+3683;Rainbow Snax Party Pack!;None;
+3682;Espresso Snax;None;
+3681;Super Spicy Snax;None;
+3680;Frosted Snax;None;
+1029;Cloth Armor;+15 Armor;defense
+1028;Ruby Crystal;+150 Health;defense
+3371;Molten Edge;+100 Attack Damage, +20% Critical Strike Chance;attack
+3116;Rylai's Crystal Scepter;+300 Health, +75 Ability Power;defense,magic
+3901;Fire at Will;None;
+3902;Death's Daughter;None;
+3903;Raise Morale;None;
+3636;Tower: Storm Bulwark;None;
+3637;Nexus Siege: Siege Weapon Slot;None;
+3634;Tower: Beam of Ruination;None;
+3635;Port Pad;None;
+3632;;None;
+3633;Siege Teleport;None;
+3630;Siege Teleport;None;
+3631;Siege Ballista;None;
+3060;Banner of Command;+60 Armor, +30 Magic Resist, +125% Base Health Regen , +10% Cooldown Reduction;defense
+3067;Kindlegem;+200 Health  ;defense
+3065;Spirit Visage;+450 Health, +55 Magic Resist, +100% Base Health Regen , +10% Cooldown Reduction;defense
+3069;Talisman of Ascension;+45 Armor, +175% Base Health Regen , +10% Cooldown Reduction, +2 Gold per 10 seconds;defense
+3110;Frozen Heart;+100 Armor, +20% Cooldown Reduction, +400 Mana;defense,magic
+3364;Oracle Alteration;;tools
+1051;Brawler's Gloves;+10% Critical Strike Chance;attack
+1052;Amplifying Tome;+20 Ability Power;magic
+1053;Vampiric Scepter;+15 Attack Damage, +10% Life Steal;attack
+1054;Doran's Shield;+80 Health;defense
+1055;Doran's Blade;+8 Attack Damage, +80 Health, +3% Life Steal;defense,attack
+1056;Doran's Ring;+60 Health, +15 Ability Power, +50% Base Mana Regen ;defense,magic
+1057;Negatron Cloak;+40 Magic Resist;defense
+3104;Lord Van Damm's Pillager;+300 Health, +50 Attack Damage, +10% Cooldown Reduction;defense,attack
+3105;Aegis of the Legion;+30 Armor, +30 Magic Resist;defense
+3340;Warding Totem (Trinket);None;tools
+3341;Sweeping Lens (Trinket);None;tools
+3100;Lich Bane;+80 Ability Power, +7% Movement Speed, +10% Cooldown Reduction, +250 Mana;magic
+3101;Stinger;+35% Attack Speed;attack
+2138;Elixir of Iron;Level 9 required to purchase.;tools
+2139;Elixir of Sorcery;Level 9 required to purchase.;tools
+3184;Guardian's Hammer;+150 Health, +20 Attack Damage, +10% Life Steal;defense,attack
+3185;The Lightbringer;+30 Attack Damage, +30% Critical Strike Chance;
+3187;Arcane Sweeper;+225 Health, +250 Mana, +25 Armor, +20% Cooldown Reduction;tools
+2033;Corrupting Potion;None;tools
+2032;Hunter's Potion;None;tools
+2031;Refillable Potion;None;tools
+3675;Enchantment: Bloodrazor;+50% Attack Speed;
+3348;Arcane Sweeper;None;tools
+3056;Ohmwrecker;+300 Health, +50 Armor, +150% Base Health Regen , +10% Cooldown Reduction;defense
+3108;Fiendish Codex;+30 Ability Power;magic
+3706;Stalker's Blade;+10% Life Steal vs. Monsters, +225% Base Mana Regen while in Jungle;
+3053;Sterak's Gage;+450 Health;defense
+3050;Zeke's Convergence;+60 Armor, +30 Magic Resist, +250 Mana, +10% Cooldown Reduction;defense
+3109;Knight's Vow;+250 Health, +40 Armor, +10% Cooldown Reduction;defense
+1043;Recurve Bow;+25% Attack Speed;attack
+1042;Dagger;+12% Attack Speed;attack
+1041;Hunter's Machete;+10% Life Steal vs. Monsters;
+3029;Rod of Ages (Quick Charge);+300 Health, +300 Mana, +60 Ability Power;defense,magic
+3042;Muramana;+25 Attack Damage, +1000 Mana;attack,magic
+3117;Boots of Mobility;None;movement
+3422;Head of Kha'Zix;None;
+3115;Nashor's Tooth;+50% Attack Speed, +80 Ability Power;attack,magic
+3114;Forbidden Idol;+50% Base Mana Regen ;magic
+3113;Aether Wisp;+30 Ability Power;magic
+3112;Guardian's Orb;+150 Health, +35 Ability Power, +10 Mana regen per 5 seconds;defense,magic
+3111;Mercury's Treads;+25 Magic Resist;defense,movement
+3222;Mikael's Crucible;+40 Magic Resist, +10% Cooldown Reduction, +100% Base Mana Regen ;defense
+3197;The Hex Core mk-2;+6 Ability Power per level, +20 Mana per level;magic
+2003;Health Potion;None;tools
+3194;Adaptive Helm;+350 Health, +55 Magic Resist, +100% Base Health Regeneration , +10% Cooldown Reduction;defense
+3193;Gargoyle Stoneplate;+40 Armor, +40 Magic Resist;defense
+3191;Seeker's Armguard;+30 Armor, +20 Ability Power;defense,magic
+3190;Locket of the Iron Solari;+30 Armor, +60 Magic Resist;defense
+2009;Total Biscuit of Rejuvenation;None;tools
+3025;Iceborn Gauntlet;+65 Armor, +20% Cooldown Reduction, +500 Mana;defense,magic
+3198;Perfect Hex Core;+10 Ability Power per level, +25 Mana per level;magic

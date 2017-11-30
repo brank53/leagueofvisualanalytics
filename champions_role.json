@@ -1,0 +1,362 @@
+{
+	"name": "flare",
+	"children": [
+	{
+		"name": "Tanks",
+		"children": [
+		{
+			"name": "Vanguards",
+			"children": [
+			{
+				"name": "Support",
+				"children": [
+				{"name": "Leona", "size": 1000}
+				]
+			},
+			{
+				"name": "Jungler",
+				"children": [
+				{"name": "Zac", "size": 1000},
+				{"name": "Amumu", "size": 1000},
+				{"name": "Maplhite", "size": 1000},
+				{"name": "Gragas", "size": 1000},
+				{"name": "Sejuani", "size": 1000},
+				{"name": "Rammus", "size": 1000},
+				{"name": "Rek'sai", "size": 1000},
+				{"name": "Nautilus", "size": 1000},
+				{"name": "Skarner", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Wardens",
+			"children": [
+			{
+				"name": "Support",
+				"children": [
+				{
+					"name": "Braum", 
+					"children": [
+					{
+						"name": "Braum",
+						"size": 1000
+					}
+					]
+				},
+				{
+					"name": "Tahm Kench", 
+					"children": [
+					{
+						"name": "Tahm Kench",
+						"size": 1000
+					}
+					]
+				},
+				{
+					"name": "Alistar", 
+					"children": [
+					{
+						"name": "Alistar",
+						"size": 1000
+					}
+					]
+				}
+				]
+			},
+			{
+				"name": "Jungler",
+				"children": [
+				{"name": "Maokai", "size": 1000},
+				{"name": "Shen", "size": 1000},
+				{"name": "Poppy", "size": 1000},
+				{"name": "Galio", "size": 1000}
+				]
+			}
+			]
+		}
+		]
+	},
+	
+	{
+		"name": "Fightes",
+		"children": [
+		{
+			"name": "Juggernauts",
+			"children": [
+			{
+				"name": "Top",
+				"children": [
+				{"name": "Nasus", "size": 1000},
+				{"name": "Darius", "size": 1000},
+				{"name": "Illaoi", "size": 1000},
+				{"name": "Olaf", "size": 1000},
+				{"name": "Udyr", "size": 1000},
+				{"name": "Shyvana", "size": 1000},
+				{"name": "Vi", "size": 1000},
+				{"name": "Gnar", "size": 1000}
+				]
+			},
+			{
+				"name": "Jungler",
+				"children": [
+				{"name": "Mordekaiser", "size": 1000},
+				{"name": "Trundle", "size": 1000},
+				{"name": "Udyr", "size": 1000},
+				{"name": "Dr Mundo", "size": 1000},
+				{"name": "Volibear", "size": 1000},
+				{"name": "Yorick", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Divers",
+			"children": [
+			{
+				"name": "Top",
+				"children": [
+				{"name": "Wukong", "size": 1000},
+				{"name": "Renekton", "size": 1000},
+				{"name": "Irelia", "size": 1000},
+				{"name": "Aatrox", "size": 1000}
+				]
+			},
+			{
+				"name": "Jungler",
+				"children": [
+				{"name": "Vi", "size": 1000},
+				{"name": "Xin Zhao", "size": 1000},
+				{"name": "Pantheon", "size": 1000},
+				{"name": "Jarvan", "size": 1000},
+				{"name": "Warwick", "size": 1000},
+				{"name": "Elise", "size": 1000},
+				{"name": "Hecarim", "size": 1000},
+				{"name": "Lee Sin", "size": 1000},
+				{"name": "Evelyn", "size": 1000},
+				{"name": "Diana", "size": 1000}
+				]
+			}
+			]
+		}
+		]
+	},
+	
+	{
+		"name": "Slayers",
+		"children": [
+		{
+			"name": "Assassins",
+			"children": [
+			{
+				"name": "Mid",
+				"children": [
+				{"name": "Zed", "size": 1000},
+				{"name": "Fizz", "size": 1000},
+				{"name": "LeBlanc", "size": 1000},
+				{"name": "Akali", "size": 1000},
+				{"name": "Talon", "size": 1000},
+				{"name": "Katarina", "size": 1000},
+				{"name": "Kassadin", "size": 1000},
+				{"name": "Nidalee", "size": 1000},
+				{"name": "Yasuo", "size": 1000}
+				]
+			},
+			{
+				"name": "Jungler",
+				"children": [
+				{"name": "Kha'zix", "size": 1000},
+				{"name": "Shaco", "size": 1000},
+				{"name": "Rengar", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Skirmishers",
+			"children": [
+			{
+				"name": "Top",
+				"children": [
+				{"name": "Fiora", "size": 1000},
+				{"name": "Tryndamere", "size": 1000},
+				{"name": "Riven", "size": 1000},
+				{"name": "Gangplank", "size": 1000},
+				{"name": "Jax", "size": 1000}
+				]
+			},
+			{
+				"name": "Jungler",
+				"children": [
+				{"name": "Master Yi", "size": 1000},
+				{"name": "Ekko", "size": 1000}
+				]
+			}
+			]
+		}
+		]
+	},
+	
+	{
+		"name": "Mages",
+		"children": [
+		{
+			"name": "Burst Mages",
+			"children": [
+			{
+				"name": "Support",
+				"children": [
+				{"name": "Cassiopeia", "size": 1000},
+				{"name": "Lux", "size": 1000}
+				]
+			},
+			{
+				"name": "Mid",
+				"children": [
+				{"name": "Syndra", "size": 1000},
+				{"name": "Veigar", "size": 1000},
+				{"name": "Annie", "size": 1000},
+				{"name": "Twisted Fate", "size": 1000},
+				{"name": "Ahri", "size": 1000},
+				{"name": "Lissandra", "size": 1000},
+				{"name": "Viktor", "size": 1000},
+				{"name": "Brand", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Battle mages",
+			"children": [
+			{
+				"name": "Mid",
+				"children": [
+				{"name": "Karthus", "size": 1000},
+				{"name": "Vladimir", "size": 1000},
+				{"name": "Ryze", "size": 1000},
+				{"name": "Swain", "size": 1000},
+				{"name": "Rumble", "size": 1000},
+				{"name": "Aurelion Sol", "size": 1000},
+				{"name": "Malzahar", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Artillery",
+			"children": [
+			{
+				"name": "Mid",
+				"children": [
+				{"name": "Xerath", "size": 1000},
+				{"name": "Ziggs", "size": 1000},
+				{"name": "Vel'koz", "size": 1000},
+				{"name": "Jayce", "size": 1000},
+				{"name": "Varus", "size": 1000}
+				]
+			}
+			]
+		}
+		]
+	},
+	
+	{
+		"name": "Controllers",
+		"children": [
+		{
+			"name": "Enchanters",
+			"children": [
+			{
+				"name": "Support",
+				"children": [
+				{"name": "Janna", "size": 1000},
+				{"name": "Nami", "size": 1000},
+				{"name": "Sona", "size": 1000},
+				{"name": "Soraka", "size": 1000},
+				{"name": "Lulu", "size": 1000},
+				{"name": "Bard", "size": 1000},
+				{"name": "Zilean", "size": 1000},
+				{"name": "Taric", "size": 1000},
+				{"name": "Morgana", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Disruptors",
+			"children": [
+			{
+				"name": "Mid",
+				"children": [
+				{"name": "Karma", "size": 1000},
+				{"name": "Anivia", "size": 1000},
+				{"name": "Zyra", "size": 1000},
+				{"name": "Heimerdinger", "size": 1000},
+				{"name": "Orianna", "size": 1000}
+				]
+			},
+			{
+				"name": "Top",
+				"children": [
+				{"name": "Teemo", "size": 1000},
+				{"name": "Taliyah", "size": 1000}
+				]
+			}
+			]
+		},
+		{
+			"name": "Marksmen",
+			"children": [
+			{
+			"name": "ADC",
+			"children": [
+				{"name": "Vayne", "size": 1000},
+				{"name": "Caitlyn", "size": 1000},
+				{"name": "Ashe", "size": 1000},
+				{"name": "Corki", "size": 1000},
+				{"name": "Draven", "size": 1000},
+				{"name": "Jinx", "size": 1000},
+				{"name": "Kalista", "size": 1000},
+				{"name": "Kog'Maw", "size": 1000},
+				{"name": "Lucian", "size": 1000},
+				{"name": "Miss Fortune", "size": 1000},
+				{"name": "Sivir", "size": 1000},
+				{"name": "Tristana", "size": 1000},
+				{"name": "Ezreal", "size": 1000},
+				{"name": "Twitch", "size": 1000},
+				{"name": "Quinn", "size": 1000},
+				{"name": "Jhin", "size": 1000},
+				{"name": "Graves", "size": 1000},
+				{"name": "Urgot", "size": 1000}
+				]
+			},
+			{
+				"name": "Top",
+				"children": [
+				{"name": "Kayle", "size": 1000},
+				{"name": "Kennen", "size": 1000},
+				{"name": "Cho'Gath", "size": 1000}
+				]
+			},
+			{
+				"name": "Support",
+				"children": [
+				{"name": "Singed", "size": 1000},
+				{"name": "Blitzcrank", "size": 1000}
+				]
+			},
+			{
+				"name": "Mid",
+				"children": [
+				{"name": "Azir", "size": 1000},
+				{"name": "Fiddlesticks", "size": 1000}
+				]
+			}
+			]
+		}
+		]
+	}
+
+
+	]
+}

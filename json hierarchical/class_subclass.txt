@@ -1,0 +1,16 @@
+,Tanks,Vanguards,
+,Tanks,Wardens,
+
+,Mages,Burst Mages,
+,Mages,Artillery,
+,Mages,Battle Mages,
+
+,Fighters,Juggernauts,
+,Fighters,Divers,
+
+,Controllers,Enchanters,
+,Controllers,Catchers,
+
+,Slayers,Assassins,
+,Slayers,Skirmishers,
+,Slayers,Marksmen,

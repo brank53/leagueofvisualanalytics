@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>League of Visual Analytics</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
+    
+    <!-- Bootstrap CSS File -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/zoomable_Circle_Packing.css" rel="stylesheet">
+    <link href="css/sequences.css" rel="stylesheet">
+    <link href="css/statistic.css" rel="stylesheet">
+    <link href="css/statistics_radial.css" rel="stylesheet">
+    <link href="css/line_chart.css" rel="stylesheet">
+	<link href="css/heatmap.css" rel="stylesheet">
+	<link href="css/progress_bar.css" rel="stylesheet">
+	<link href="css/table.css" rel="stylesheet">
+	<!--<link href="css/table2.css" rel="stylesheet">
+	<link href="css/table3.css" rel="stylesheet">-->
+	<!--<link href="css/histogram.css" rel="stylesheet">-->
+	<link href="css/linechart_abilities.css" rel="stylesheet">
+	
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110474365-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-110474365-1');
+	</script>
+    
+    <!-- =======================================================
+      Theme Name: Bell
+      Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
+      Author: BootstrapMade.com
+      Author URL: https://bootstrapmade.com
+    ======================================================= -->
+  </head>
+
+  <body>
+  
+    <section class="hero" id="home">
+      <div class="container text-center">
+        <div class="row">
+		 
+		
+		  <div id="load_screen"><div style="width:800px; margin:0 auto; padding-top:100px;" id="loading"><img src="load9.gif"></img></div></div>
+		 
+		  
+          <div class="col-md-12">
+            <a class="hero-brand"><img alt="Bell Logo" src="logo10.png" width=600 height=150></a>
+          </div>
+          
+          <div class="stats-col text-center col-md-4">
+			  <br>
+			  <div id="sequence"></div>
+			  <br>
+			  <img id="champion1_image" src="transparent.png" width=400 height=250>
+          </div>
+		  <div id="zoom" class="stats-col text-center col-md-4">
+			  <p style="color:white"> <i><b>Choose two campions to compare them!</b></i></p>
+			<div id="inputtext" class="ui-widget">
+			  <input id="search_champion" placeholder="search champion">
+			</div>
+			<form name="formhome">
+				<input type="radio" id="radioclass" name="radiohome" value="Class">  </input><label id="label1" style="font-size: 15px;"> Class </label>
+				<input type="radio" id="radiorole" name="radiohome" value="Role">  </input><label style="font-size: 15px;"> Role </label>
+			</form>
+			<div id="chart"></div>
+          </div>
+	      <div class="stats-col text-center col-md-4">
+			  <br>
+			  <div id="sequence2"></div>
+			  <br>
+			<img id="champion2_image" src="transparent.png" width=400 height=250>
+          </div>
+         <div id="buttons" class="col-md-12">
+			 <a id="start" class="btn2 btn-full" href="#statistics">Get Started Now</a>
+			 <a id="reset" class="btn btn-full" href="#home">Reset</a>
+         </div>
+        </div>
+        </div>
+	</section>
+    
+  <!-- Header -->
+  <header id="header">
+    <div class="container">
+    
+      <div id="logo" class="pull-left">
+        <a href="#zoom"><img src="img/logo3.png" alt="" title="" /></img></a>
+        <!-- Uncomment below if you prefer to use a text image -->
+        <!--<h1><a href="#hero">Bell</a></h1>-->
+      </div>
+        
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+			
+          <li><a class="itemenu" href="#statistics"><img src="icon3.png"></img></a></li>
+          <li><a class="itemenu" href="#contact"><img src="icon2.png"></img></a></li>
+          <li><a class="itemenu" href="#heatmap"><img src="icon5.png"></img></a></li>
+          <li><a class="itemenu" href="#item"><img src="icon4.png"></img></a></li>
+          
+          
+        </ul>
+      </nav><!-- #nav-menu-container -->
+      
+      <nav class="nav social-nav pull-right hidden-sm-down">
+        <!--<a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>-->
+          <li><a><img id="champion1_icon" src="" width=40 height=40</img></a></li>
+          <li><a><img id="icon_vs" src="iconvs.png"></img></a></li>
+          <li><a><img id="champion2_icon" src="" width=40 height=40></img></a></li>
+      </nav>
+    </div>
+  </header><!-- #header -->
+  
+  
+	<section id="statistics">
+      <div class="container">
+        <h2 class="text-center">
+          Statistics
+        </h2>
+        <div class="row">
+          <div class="feature-col col-lg-4 col-xs-12" id="stat1stattu">
+            <!--<div class="card card-block text-center">
+              <div>-->
+				<legend style="color:black;font-weight:bold;">Average kills</legend>
+                <div class="statistics1" id="stat1"></div>
+              <!--</div>
+            </div>-->
+          </div>
+
+          <div class="feature-col col-lg-4 col-xs-12" id="stat2stattu">
+			  <legend style="color:black;font-weight:bold;">Average gold earned</legend>
+               <div class="statistics2" id="stat2"></div>
+          </div>
+
+          <div class="feature-col col-lg-4 col-xs-12" id="stat3stattu">
+			  <legend style="color:black;font-weight:bold;">Average minions kills</legend>
+              <div class="statistics3" id="stat3"></div>
+          </div>
+
+          <div class="feature-col col-lg-6 col-xs-12">
+			<legend style="color:black;font-weight:bold;">Win percentage</legend>
+			<div id="radial_central">
+				<div id="radial_progress1"> 
+				</div>
+				
+				<div id="radial_progress2"> 
+				</div>
+			</div>
+			<br>
+			<legend style="color:black;font-weight:bold;">Popolarity percentage</legend>
+			<div id="radial_central2"> 
+				<div id="radial_progress3"> 
+				</div>
+				
+				<div id="radial_progress4"> 
+				</div>
+			</div>
+		  </div>
+         
+
+          <div class="feature-col col-lg-6 col-xs-12">
+			  <legend style="color:black;font-weight:bold;">Abilities champions</legend>
+			  <div id="orderabilities">
+			   <form name="formC">
+					<input id="attackdamage" type="radio" name="myradio_abilities" value="attackdamage" checked="checked"></input> <label id="label1" style="font-size: 15px;"> Attack damage </label>
+					<input id="mana" type="radio" name="myradio_abilities" value="mana"></input> <label id="label1" style="font-size: 15px;"> Mana </label>
+					<input id="armor" type="radio" name="myradio_abilities" value="armor"></input> <label id="label1" style="font-size: 15px;"> Armor </label><br/>
+					<input id="magicresistance" type="radio" name="myradio_abilities" value="magicresistance"></input> <label id="label1" style="font-size: 15px;"> Magic resistance </label>
+					<input id="healt" type="radio" name="myradio_abilities" value="healt"></input> <label style="font-size: 15px;"> Healt </label>
+				</form>	
+			  </div>
+			  <br>
+			  <div id="linechart_abilities"></div>
+          </div>
+
+         
+        </div>
+      </div>
+    </section>
+    <!-- /Features -->
+    
+    <section id="contact">
+      <div class="container">
+		<h2 class="intro-text text-center">Linechart</h2>
+        <div class="row">
+			
+		  <div class="feature-col col-lg-2 col-xs-12">
+            <div class="crop_linechart1">
+			  <img id="linechart_image1" src="images_champions/Heimerdinger.jpg"></img>
+		    </div>
+          </div>
+          
+          <div class="feature-col col-lg-8 col-xs-12">
+			<div id="linecharts">
+				<form name="formA">
+					<input id="radiogold" type="radio" name="myradio" value="Gold" checked="checked"></input> <label id="label1" style="font-size: 15px;"> Gold earned </label>
+					<input id="radiominions" type="radio" name="myradio" value="Minions"></input> <label style="font-size: 15px;"> Minions kill </label>
+				</form>
+				<hr>
+				<div id="linechart"></div>
+				<!--<div class="col-sm-9">
+					<div id="linechart4"></div>
+				</div>
+				<div id="legend2" class="col-sm-3" style="padding-right: 0px; padding-left: 0px;">
+					<div class="legendTitle" style="font-size: 12px;"> Legend </div>
+					<div id="legend2"></div>
+				</div>-->
+			 </div>
+           </div>
+           
+           <div class="feature-col col-lg-2 col-xs-12">
+            <div class="crop_linechart2">
+			  <img id="linechart_image2" src="images_champions/Fizz.jpg"></img>
+		    </div>
+           </div>
+          
+        </div>
+      </div>
+    </section>
+  
+    <section id="heatmap">
+      <div class="container">
+        <h2 class="intro-text text-center">Heatmap</h2>
+        <div class="row" id="rowheatmap">
+		  
+          <div class="feature-col col-lg-2 col-xs-12">
+                <img id="champion1_heatmap" src="transparent.png" width="150px";>
+          </div>
+
+          <div class="feature-col col-lg-8 col-xs-12">
+			  <div id="heatmaps">
+				  <form id="formheatmap" name="formB">
+					<input id="radiokill" type="radio" name="myradio" value="Kills" checked="checked"></input> <label id="label1" style="font-size: 15px;"> Kills positions </label>
+					<input id="radiodeath" type="radio" name="myradio" value="Deaths"></input> <label style="font-size: 15px;"> Deaths positions </label>
+				  </form>
+				  <hr>
+				  <div id="map1">
+					  <div class="crop_heatmap1">
+						  <img id="heatmap_image1" src="images_champions/Janna.jpg"></img>
+					  </div>
+			
+					   <div id="map_champion1"></div>
+				  </div>
+				  <div id="map2">
+					  <div class="crop_heatmap2">
+						  <img id="heatmap_image2" src="images_champions/Jinx.jpg"></img>
+					  </div>
+					 
+					  <div id="map_champion2"></div>
+				  </div>
+              </div>
+          </div>
+          
+          <div class="feature-col col-lg-2 col-xs-12">
+              <img id="champion2_heatmap" src="transparent.png" width="150px";>
+          </div>
+          
+        </div>
+        
+	   </div>
+	 </section>
+	
+	 <section id="item">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center" id="tableload">
+            <h2 class="section-title">Item purchased</h2>
+				  <div id="ordertable">
+						<form action="" id="checkboxcat">
+							<fieldset>
+								 <h3>Order by: </h3>
+								 <br>
+								 <input id="all" type="checkbox" name="All" value="All" checked="checked"/> <label id="label1" style="font-size: 15px;"> All </label>
+								 <input id="tools" type="checkbox" name="category 1" value="tools"/> <label id="label1" style="font-size: 15px;"> Tools </label>
+								 <input id="movement" type="checkbox" name="category 2" value="movements" /> <label id="label1" style="font-size: 15px;"> Movements </label>
+								 <input id="attack" type="checkbox" name="category 3" value="attack" /> <label id="label1" style="font-size: 15px;"> Attack </label>
+								 <input id="magic" type="checkbox" name="category 4" value="magic" /> <label id="label1" style="font-size: 15px;"> Magic </label>
+								 <input id="defense" type="checkbox" name="category 5" value="defense"/> <label style="font-size: 15px;"> Defense </label>
+								 <br>
+								 <br>
+								 <!--<select id="order_select" name="order">
+									 <option value="Alphabetic">Alphabetic</option>
+									 <option value="Champion1">Champion1</option>
+									 <option value="Champion2">Champion2</option>
+								 </select>-->
+							</fieldset>
+						</form>
+						
+						<div id="select_refresh">
+							 <div id="divselect" class="select">
+								<select id="order_select" name="order" >
+									<option id="az" value="Alphabetic">A - Z</option>
+									<option id="champion1_select" value="Champion1">Champion1</option>
+									<option id="champion2_select" value="Champion2">Champion2</option>
+								</select>
+								<div class="select_arrow"></div>
+							</div>
+							<div id="divrefresh">
+								<button class="myButton" id="refreshItem" type="button">Refresh</button>
+							</div>
+						</div>
+						
+					</div>
+					<hr>
+					<div align="center" class="table-container" id="tableitem">
+						<table class="scroll" id="tableitem_union" style="width: 75%">
+							<thead>
+								<tr>
+									<th>Item</th>
+									<th>Effect</th>
+									<th>Percentage</th>
+								</tr>
+							</thead>
+							<tbody id="tablebody">
+								<!--<tr>
+									
+								</tr>-->
+						   </tbody>
+						</table>
+					</div>
+					
+                </div>
+          </div>
+        </div>
+      </div>
+    </section>
+      
+    <footer class="site-footer">
+      <div class="bottom">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-lg-6 col-xs-12 text-lg-left text-center">
+              <p class="copyright-text">
+                © BELL Theme
+              </p>
+              <div class="credits">
+                  <!-- 
+                  All the links in the footer should remain intact. 
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Bell
+                -->
+                <a href="https://bootstrapmade.com/">Bootstrap Themes</a> by BootstrapMade
+              </div>
+            </div>
+            
+            <div class="col-lg-6 col-xs-12 text-lg-right text-center">
+				
+			</div>
+			
+			<br>
+			<br>
+			 <div class="col-md-12 text-center">
+				<p class="copyright-text">
+					<bold>League of Visual Analytics</bold> isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+				</p>
+				
+			</div>
+            <!--
+            <div class="col-lg-6 col-xs-12 text-lg-right text-center">
+              <ul class="list-inline">
+                <li class="list-inline-item">
+                  <a href="index.html">Home</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#about">About Us</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#features">Features</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#portfolio">Portfolio</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#team">Team</a>
+                </li>
+
+                <li class="list-inline-item">
+                  <a href="#contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+            -->
+            
+          </div>
+        </div>
+      </div>
+    </footer>
+    <a class="scrolltop" href="#zoom"><span class="fa fa-angle-up"></span></a> <!-- JavaScript
+
+
+    <!-- Required JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="lib/superfish/hoverIntent.js"></script>
+    <script src="lib/superfish/superfish.min.js"></script>
+    <script src="lib/tether/js/tether.min.js"></script>
+    <script src="lib/stellar/stellar.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/easing/easing.js"></script>
+    <script src="lib/stickyjs/sticky.js"></script>
+    <script src="lib/parallax/parallax.js"></script>
+    <script src="lib/lockfixed/lockfixed.min.js"></script>
+    
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+	<script src="zoomable_Circle_Packing.js"></script>
+	<script src="statistics_radial.js"></script>
+	<script src="linechart_backup.js"></script>
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<script src="heatmap.js"></script>
+	<script src="table_union.js"></script>
+	<script src="histogram.js"></script>
+	<script src="underline_scroll.js"></script>
+	<script src="linechart_abilities.js"></script>
+	<script src="https://d3js.org/d3-queue.v3.min.js"></script>
+    <!-- Template Specisifc Custom Javascript File -->
+    <script src="js/custom.js"></script>
+    
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!--<script src="contactform/contactform.js"></script>-->
+    
+  </body>
+</html>

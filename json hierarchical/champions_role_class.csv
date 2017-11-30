@@ -1,0 +1,139 @@
+champion,class,subclass,role
+Aatrox,Fighters,Divers,Top
+Ahri,Mages,Burst Mages,Middle
+Akali,Slayers,Assassins,Middle
+Alistar,Tanks,Vanguards,Support
+Amumu,Tanks,Vanguards,Jungler
+Anivia,Mages,Battle Mages,Middle
+Annie,Mages,Burst Mages,Middle
+Ashe,Slayers,Marksmen,ADC
+Aurelion Sol,Mages,Battle Mages,Middle
+Azir,Mages,Burst Mages,Middle
+Bard,Controllers,Catchers,Support
+Blitzcrank,Controllers,Catchers,Support
+Brand,Mages,Burst Mages,Middle
+Braum,Tanks,Wardens,Support
+Caitlyn,Slayers,Marksmen,ADC
+Camille,Fighters,Divers,Top
+Cassiopeia,Mages,Battle Mages,Middle
+Cho'Gath,Slayers,Skirmishers,Top
+Corki,Slayers,Marksmen,Middle
+Darius,Fighters,Juggernauts,Top
+Diana,Mages,Burst Mages,Middle
+Dr. Mundo,Fighters,Juggernauts,Top
+Draven,Slayers,Marksmen,ADC
+Ekko,Slayers,Assassins,Middle
+Elise,Fighters,Divers,Jungler
+Evelynn,Slayers,Assassins,Jungler
+Ezreal,Slayers,Marksmen,ADC
+Fiddlesticks,Mages,Burst Mages,Jungler
+Fiora,Slayers,Skirmishers,Top
+Fizz,Slayers,Assassins,Middle
+Galio,Tanks,Wardens,Top
+Gangplank,Fighters,Juggernauts,Top
+Garen,Fighters,Juggernauts,Top
+Gnar,Fighters,Juggernauts,Top
+Gragas,Tanks,Vanguards,Jungler
+Graves,Slayers,Marksmen,Jungler
+Hecarim,Fighters,Divers,Jungler
+Heimerdinger,Mages,Battle Mages,Middle
+Illaoi,Fighters,Juggernauts,Top
+Irelia,Fighters,Divers,Top
+Ivern,Tanks,Wardens,Jungler
+Janna,Controllers,Enchanters,Support
+Jarvan IV,Fighters,Divers,Jungler
+Jax,Slayers,Skirmishers,Top
+Jayce,Mages,Artillery,Top
+Jhin,Slayers,Marksmen,ADC
+Jinx,Slayers,Marksmen,ADC
+Kalista,Slayers,Marksmen,ADC
+Karma,Controllers,Enchanters,Support
+Karthus,Mages,Battle Mages,Middle
+Kassadin,Slayers,Assassins,Middle
+Katarina,Slayers,Assassins,Middle
+Kayle,Slayers,Skirmishers,Top
+Kayn,Slayers,Skirmishers,Jungler
+Kennen,Slayers,Skirmishers,Top
+Kha'Zix,Slayers,Assassins,Jungler
+Kindred,Slayers,Marksmen,Jungler
+Kled,Fighters,Divers,Top
+Kog'Maw,Slayers,Marksmen,ADC
+LeBlanc,Mages,Burst Mages,Middle
+Lee Sin,Fighters,Divers,Jungler
+Leona,Tanks,Vanguards,Support
+Lissandra,Mages,Burst Mages,Middle
+Lucian,Slayers,Marksmen,ADC
+Lulu,Controllers,Enchanters,Support
+Lux,Mages,Burst Mages,Middle
+Malphite,Tanks,Vanguards,Top
+Malzahar,Mages,Battle Mages,Middle
+Maokai,Tanks,Vanguards,Jungler
+Master Yi,Slayers,Skirmishers,Jungler
+Miss Fortune,Slayers,Marksmen,ADC
+Mordekaiser,Fighters,Juggernauts,Top
+Morgana,Controllers,Catchers,Support
+Nami,Controllers,Enchanters,Support
+Nasus,Fighters,Juggernauts,Top
+Nautilus,Tanks,Vanguards,Support
+Nidalee,Mages,Battle Mages,Jungler
+Nocturne,Slayers,Assassins,Jungler
+Nunu,Tanks,Wardens,Jungler
+Olaf,Fighters,Divers,Jungler
+Orianna,Mages,Burst Mages,Middle
+Ornn,Tanks,Vanguards,Top
+Pantheon,Fighters,Divers,Top
+Poppy,Tanks,Wardens,Top
+Quinn,Slayers,Marksmen,Top
+Rakan,Controllers,Catchers,Support
+Rammus,Tanks,Vanguards,Jungler
+Rek'Sai,Fighters,Divers,Jungler
+Renekton,Fighters,Divers,Top
+Rengar,Fighters,Divers,Jungler
+Riven,Slayers,Skirmishers,Top
+Rumble,Mages,Battle Mages,Top
+Ryze,Mages,Battle Mages,Middle
+Sejuani,Tanks,Vanguards,Jungler
+Shaco,Slayers,Assassins,Jungler
+Shen,Tanks,Wardens,Top
+Shyvana,Fighters,Juggernauts,Jungler
+Singed,Tanks,Vanguards,Top
+Sion,Tanks,Vanguards,Top
+Sivir,Slayers,Marksmen,ADC
+Skarner,Fighters,Divers,Jungler
+Sona,Controllers,Enchanters,Support
+Soraka,Controllers,Enchanters,Support
+Swain,Mages,Battle Mages,Top
+Syndra,Mages,Burst Mages,Middle
+Tahm Kench,Tanks,Wardens,Support
+Taliyah,Mages,Battle Mages,Middle
+Talon,Slayers,Assassins,Middle
+Taric,Tanks,Wardens,Support
+Teemo,Slayers,Skirmishers,Top
+Thresh,Controllers,Catchers,Support
+Tristana,Slayers,Marksmen,ADC
+Trundle,Fighters,Juggernauts,Top
+Tryndamere,Slayers,Skirmishers,Top
+Twisted Fate,Mages,Burst Mages,Middle
+Twitch,Slayers,Marksmen,ADC
+Udyr,Fighters,Juggernauts,Jungler
+Urgot,Fighters,Juggernauts,Top
+Varus,Slayers,Marksmen,ADC
+Vayne,Slayers,Marksmen,ADC
+Veigar,Mages,Burst Mages,Middle
+Vel'Koz,Mages,Artillery,Middle
+Vi,Fighters,Divers,Jungler
+Viktor,Mages,Battle Mages,Middle
+Vladimir,Mages,Battle Mages,Middle
+Volibear,Fighters,Juggernauts,Jungler
+Warwick,Fighters,Divers,Jungler
+Wukong,Fighters,Divers,Top
+Xayah,Slayers,Marksmen,ADC
+Xerath,Mages,Artillery,Middle
+Xin Zhao,Fighters,Divers,Jungler
+Yasuo,Slayers,Skirmishers,Middle
+Yorick,Fighters,Juggernauts,Top
+Zac,Tanks,Vanguards,Jungler
+Zed,Slayers,Assassins,Middle
+Ziggs,Mages,Artillery,Middle
+Zilean,Controllers,Catchers,Support
+Zyra,Controllers,Catchers,Support

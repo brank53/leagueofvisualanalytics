@@ -1,0 +1,60 @@
+.axis path,
+  .axis line{
+    fill: none;
+    stroke: black;
+  }
+
+  .line_abilities{
+    fill: none;
+    stroke: blue;
+    stroke-width: 2px;
+  }
+  .line_abilities2{
+    fill: none;
+    stroke: red;
+    stroke-width: 2px;
+  }
+
+  .tick text{
+    font-size: 12px;
+  }
+
+  .tick line{
+    opacity: 0.2;
+  }
+  
+#orderabilities{
+	text-align:center;
+}
+
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+#tooltip_abilities{
+    text-align: center;
+    width: 100%;  
+}
+
+#tooltip_abilities1, #tooltip_abilities2{
+    float:left; 
+}
+
+#tooltip_abilities2{
+    margin-left:15px;
+}
+/*
+.focus circle {
+  fill: #F1F3F3;
+  stroke: #6F257F;
+  stroke-width: 5px;
+}
+  
+.hover-line {
+  stroke: #6F257F;
+  stroke-width: 2px;
+  stroke-dasharray: 3,3;
+}*/
+

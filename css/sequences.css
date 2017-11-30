@@ -1,0 +1,43 @@
+#main {
+  float: left;
+  width: 750px;
+}
+
+#sidebar {
+  float: right;
+  width: 100px;
+}
+
+/*#sequence, #sequence2 {
+  width: 400px;
+  height: 70px;
+}*/
+
+#sequence text, #sequence2 text {
+  font-weight: 600;
+  fill: #fff;
+}
+
+/*.itemenu::before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background-color: #FFF;
+    transform-origin: right top;
+    transform: scale(0, 1);
+    transition: color 0.1s,transform 0.2s ease-out;
+}
+.itemenu:active::before {
+    background-color: #FFF;
+}
+
+a:hover::before, a:focus::before {
+    transform-origin: left top;
+    transform: scale(1, 1);
+}*/
+
+

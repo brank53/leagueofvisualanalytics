@@ -1,0 +1,58 @@
+#linecharts{
+	text-align: center;
+    width: 100%;  
+}
+
+.line {
+  fill: none;
+  /*stroke: blue;*/
+  stroke-width: 2px;
+}
+
+.crop_linechart1 {
+    width: 200px;
+    height: 450px;
+    overflow: hidden;
+    margin-bottom:5px;
+    box-shadow: 10px 10px 50px #0000ff;
+    margin-top:50px;
+    border-radius: 25px;
+}
+
+.crop_linechart1 img {
+    width: 763px;
+    height: 450px;
+    margin: -0px 0 0 -450px;
+}
+
+.crop_linechart2 {
+    width: 200px;
+    height: 450px;
+    overflow: hidden;
+    margin-bottom:5px;
+    box-shadow: 10px 10px 50px #ff0000;
+    margin-top:50px;
+    border-radius: 25px;
+}
+
+.crop_linechart2 img {
+    width: 763px;
+    height: 450px;
+    margin: -0px 0 0 -450px;
+}
+
+/*#champion1_linechart, #champion2_linechart{
+	padding-top:100px;
+}
+
+
+/*.area {
+  fill: lightsteelblue;
+}*/
+
+/*#linechart_centro {
+    padding:50px;
+    overflow:hidden
+}*/
+/*#linechart{float:left;}
+#linechart2{float:right;}*/

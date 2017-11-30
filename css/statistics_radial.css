@@ -1,0 +1,29 @@
+#radial_progress {
+  padding: 20px;
+}
+
+
+.radial-progress { 
+  &__text {
+    font-family: Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+  }  
+}
+
+legend {
+    text-align: center;
+}
+
+
+#radial_central, #radial_central2 {
+    text-align: center;
+    width: 100%;  
+}
+
+#radial_progress1, #radial_progress2, #radial_progress3, #radial_progress4 {
+     padding: 50px;   
+}
+
+
+
