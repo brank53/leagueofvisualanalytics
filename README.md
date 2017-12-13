@@ -4,3 +4,5 @@ Questo progetto è stato svolto a scopo didattico per l'esame di Visual Analityc
 
 # Link sito
 Il sito con tutte le visualizzazioni è online: http://leagueofvisualanalytics.altervista.org/
+
+E' consigliato l'utilizzo di Google Chrome come browser e uno schermo superiore a 13 pollici.
