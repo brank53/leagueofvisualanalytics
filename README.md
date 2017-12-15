@@ -6,3 +6,7 @@ Questo progetto è stato svolto a scopo didattico per l'esame di Visual Analityc
 Il sito con tutte le visualizzazioni è online: http://leagueofvisualanalytics.altervista.org/
 
 E' consigliato l'utilizzo di Google Chrome come browser e uno schermo superiore a 13 pollici.
+
+# Link repository python
+https://github.com/brank53/League-of-Legends-API
+In questo link trovate gli script python per l'analisi delle partite e come sono stati gestiti i dati per avere le statistiche sui singoli campioni del gioco.
