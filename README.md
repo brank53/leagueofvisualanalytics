@@ -1,12 +1,14 @@
 # League of Visual Analytics
 
 Questo progetto è stato svolto a scopo didattico per l'esame di Visual Analitycs dell'Università di Pisa. E' basato su oltre 50.000 partite di League of Legends nella modalità "Classic", permette di confrontare due campioni, visualizzando le loro statistiche attraverso la libreria D3.js di Javascript.
+This project was carried out for educational purposes for the  Visual Analitycs's exam of the University of Pisa. Based on over 50,000 (September-October 2017) League of Legends games in the "Classic" mode, it allows you to compare two Champions, displaying their statistics through the D3.js JavaScript library.
 
-# Link sito
-Il sito con tutte le visualizzazioni è online: http://leagueofvisualanalytics.altervista.org/
+# Link site
+The site is online: http://leagueofvisualanalytics.altervista.org/
 
-E' consigliato l'utilizzo di Google Chrome come browser e uno schermo superiore a 13 pollici.
+It is recommended to use Google Chrome as a browser and a screen over 13 inches.
 
 # Link repository python
 https://github.com/brank53/League-of-Legends-API
-In questo link trovate gli script python per l'analisi delle partite e come sono stati gestiti i dati per avere le statistiche sui singoli campioni del gioco.
+
+In this link you will find the python scripts for the analysis of the games and how the data were managed to get the statistics on the individual samples of the game.
