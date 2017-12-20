@@ -1,6 +1,5 @@
 # League of Visual Analytics
 
-Questo progetto è stato svolto a scopo didattico per l'esame di Visual Analitycs dell'Università di Pisa. E' basato su oltre 50.000 partite di League of Legends nella modalità "Classic", permette di confrontare due campioni, visualizzando le loro statistiche attraverso la libreria D3.js di Javascript.
 This project was carried out for educational purposes for the  Visual Analitycs's exam of the University of Pisa. Based on over 50,000 (September-October 2017) League of Legends games in the "Classic" mode, it allows you to compare two Champions, displaying their statistics through the D3.js JavaScript library.
 
 # Link site
